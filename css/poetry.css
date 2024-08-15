@@ -1,0 +1,68 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2023/03/12 09:53:38 */
+[class~=applet-div] {
+    background-color: #f5bd8c;
+}
+
+[class~=applet-div] {
+    padding-left: .8rem;
+}
+
+[class~=applet-div] {
+    padding-bottom: .8rem;
+}
+
+[class~=applet-div] {
+    padding-right: .8rem;
+}
+
+[class~=applet-div] {
+    padding-top: .8rem;
+}
+
+[class~=applet-div] {
+    text-align: center;
+}
+
+[class~=poetry-body] {
+    color: #5a5a5a;
+}
+
+[class~=poetry-form-message],[class~=poetry-body],[class~=poetry-title] {
+    margin-left: auto;
+}
+
+[class~=poetry-body],[class~=poetry-form-message],[class~=poetry-title] {
+    margin-bottom: 2rem;
+}
+
+[class~=poetry-form-message],[class~=poetry-title],[class~=poetry-body] {
+    margin-right: auto;
+}
+
+[class~=poetry-title],[class~=poetry-body],[class~=poetry-form-message] {
+    margin-top: 2rem;
+}
+
+[class~=poetry-body] {
+    width: 75%;
+}
+
+[class~=poetry-form-message] {
+    color: red;
+}
+
+[class~=poetry-form-message] {
+    font-size: 1.2rem;
+}
+
+[class~=poetry-form-message],[class~=poetry-title] {
+    font-weight: bold;
+}
+
+[class~=poetry-title] {
+    color: #000;
+}
+
+[class~=poetry-title] {
+    font-size: 1.8rem;
+}
