@@ -1,5 +1,14 @@
 const projects = [
   {
+    id: "candycrush",
+    img: "assets/projects/CandyCrush.jpg",
+    title: "Candy Crush Clone",
+    desc: "A fun and engaging match-three puzzle game inspired by Candy Crush. Players swap candies to create matching sets, earn points, and progress through levels. Designed with smooth animations and responsive gameplay for an enjoyable user experience.",
+    skills: "HTML, CSS, JavaScript",
+    github: "https://github.com/Koushica-BU/Candy-crush",
+    demo: "https://koushica-bu.github.io/Candy-crush/"
+  },
+  {
     id: "tictactoe",
     img: "assets/projects/TicTacToe.png",
     title: "TicTacToe",
