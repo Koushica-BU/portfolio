@@ -1,7 +1,7 @@
 const projects = [
   {
     id: "candycrush",
-    img: "assets/projects/CandyCrush.jpg",
+    img: "assets/projects/CandyCrush.png",
     title: "Candy Crush Clone",
     desc: "A fun and engaging match-three puzzle game inspired by Candy Crush. Players swap candies to create matching sets, earn points, and progress through levels. Designed with smooth animations and responsive gameplay for an enjoyable user experience.",
     skills: "HTML, CSS, JavaScript",
